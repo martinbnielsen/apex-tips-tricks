@@ -1,6 +1,5 @@
 # APEX Tips and Tricks
 Collection of tips, tricks and code snippets to ease the life of an APEX full stack developer.
-(https://raw.githubusercontent.com/martinbnielsen/apex-tips-tricks/master/images/apex-logo.svg)
 
 ![alt text](https://raw.githubusercontent.com/martinbnielsen/apex-tips-tricks/master/images/apex-logo.svg "Logo")
 
